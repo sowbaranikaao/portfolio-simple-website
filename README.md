@@ -1,28 +1,32 @@
-📌 Portfolio Website
+🌐 Personal Portfolio Website
 
-This is a simple and clean portfolio website created using HTML and basic CSS.
-It includes a Home page and a Contact page, designed to showcase personal details and provide an easy way for visitors to get in touch.
+This is my personal portfolio website, built using HTML and basic CSS.
+It’s a simple project that reflects my journey as a developer — a space where I can showcase my work and let people connect with me.
 
 ✨ Features
 
-🖥️ Home page with introduction
+Home Page – Introduction and overview
 
-📩 Contact page with basic form/details
+Contact Page – Easy way to get in touch
 
-🎨 Minimal and beginner-friendly CSS styling
+Minimal, clean, and beginner-friendly design
 
-🌐 Lightweight and responsive structure
+Works smoothly on different screen sizes
 
-🚀 Technologies Used
+🚀 Built With
 
-HTML5 – Structure and content
+HTML5 – For structure
 
-CSS3 – Styling and layout
+CSS3 – For styling
 
-🌟 Future Improvements
+🎯 Purpose
 
-Add more pages (About, Projects, Skills)
+I created this project as a starting point to practice front-end development and to have a simple portfolio presence online. It’s lightweight, easy to customize, and a great foundation to build on.
 
-Enhance design with advanced CSS and animations
+🌟 Future Plans
 
-Integrate a functional contact form
+Add more sections (About Me, Projects, Skills)
+
+Improve design with animations and responsiveness
+
+Enhance interactivity with JavaScript
